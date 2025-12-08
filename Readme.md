@@ -2,7 +2,7 @@
 
 # Example FloatMenuOptionProvider
 
-This repository is an example of a custom FloatMenuOptionProvider which allows for a pawn to be instantly killed while you have another selected.
+This repository is an example of a custom FloatMenuOptionProvider. When selecting a single pawn and right-clicking another pawn, this mod will display a float menu to the player permitting them to instantly kill the clicked pawn or stating why they cannot kill the target pawn.
 
 You can use this repository as a reference, or you can download it in its entirety and run it as a local mod.
 
@@ -13,7 +13,7 @@ and clicking **Download Zip**
 2. Create a new folder (name does not matter) in your local `Mods` folder. On Windows,
 the default location for this folder is `C:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods`
 3. Unzip the zip file into that folder
-4. Run the game or use your mod manager of choice and enable the "Example Plant" mod.
+4. Run the game or use your mod manager of choice and enable the "Example Float Menu Option Provider" mod.
 
 # Links
 
