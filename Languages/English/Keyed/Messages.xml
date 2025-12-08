@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- Numbers represent the index of arguments passed to Translate. In this case, 0 is the selected pawn and 1 is the Pawn that was clicked on. -->
+    <Example_KilledWithTheirMind>{0} has killed {1} with their mind</Example_KilledWithTheirMind>
+
+</LanguageData>
