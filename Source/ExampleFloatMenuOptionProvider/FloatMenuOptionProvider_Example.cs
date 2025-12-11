@@ -19,7 +19,7 @@ namespace ExampleFloatMenuOptionProvider
             if (clickedPawn.Faction != Faction.OfPlayer)
             {
                 // The delegate here controls what happens when a player chooses this float menu option. The code is only executed if the option is chosen.
-                return new FloatMenuOption("Example_KillPawn".Translate(clickedPawn), delegate
+                return new FloatMenuOption("Example_KillPawn".Translate(clickedPawn), () =>
                 {
                     // You can provide DamageInfo and/or a Hediff logging how/why the pawn died, but we don't need to do so here. The message will explain how and why they died if players are somehow confused by the pawn dying.
                     clickedPawn.Kill(null);
