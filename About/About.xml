@@ -4,13 +4,13 @@
     <!-- This is the internal identifier for your mod. -->
     <!-- It is recommended that you make it unique to as to avoid potential collisions with other authors; -->
     <!--   if Rimworld detects multiple mods with the same packageId then it will refuse to load all of them. -->
-    <packageId>AuthorName.ExampleFloatMenuOptionProvider</packageId>
+    <packageId>professor.rosen.ExampleFloatMenuOptionProvider</packageId>
 
     <!-- This is both the displayed name of your mod as well as the name used for patch targeting. -->
     <name>Example Float Menu Option Provider</name>
 
     <!-- Your name goes here. -->
-    <author>AuthorName</author>
+    <author>Professor Rosen</author>
 
     <!-- A version number for your own tracking -->
     <!-- See wiki About.xml guide for concerns regarding this field for RimWorld versions prior to 1.4 -->

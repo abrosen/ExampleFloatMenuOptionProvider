@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ExampleFloatMenuOptionProvider\Assemblies\ExampleFloatMenuOptionProvider.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ExampleFloatMenuOptionProvider\Assemblies\ExampleFloatMenuOptionProvider.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ExampleFloatMenuOptionProvider\Source\ExampleFloatMenuOptionProvider\obj\Debug\ExampleFloatMenuOptionProvider.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ExampleFloatMenuOptionProvider\Source\ExampleFloatMenuOptionProvider\obj\Debug\ExampleFloatMenuOptionProvider.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ExampleFloatMenuOptionProvider\Source\ExampleFloatMenuOptionProvider\obj\Debug\ExampleFloatMenuOptionProvider.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ExampleFloatMenuOptionProvider\Source\ExampleFloatMenuOptionProvider\obj\Debug\ExampleFloatMenuOptionProvider.pdb
